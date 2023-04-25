@@ -4,8 +4,8 @@
     ini_set('display_errors', 1);
     ini_set('display_startup_errors', 1);
     error_reporting(E_ALL);
-    define('ROOT_DIR', 'http://localhost:8040/Theatre-1/');
-    define('AUTH_DIR', 'http://localhost:8040/Theatre-1/account/dashboard/');
+    define('ROOT_DIR', 'http://localhost:8040/Theatre-2/');
+    define('AUTH_DIR', 'http://localhost:8040/Theatre-2/account/dashboard/');
    
 ?>
 <!doctype html>

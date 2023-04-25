@@ -67,4 +67,6 @@ x-data="{open:false,menu:false, lokasi:false}">
     </div>
   </div>
 </nav>
+ 
+
 
