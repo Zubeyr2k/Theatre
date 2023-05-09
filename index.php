@@ -29,8 +29,8 @@
 
 <section class="border-t-4 cream-bg">
 <h1 class="mt-3 text-[2.5rem] font-bold leading-[4rem] tracking-tight text-black text-center pb-8 pt-2">Latest articles</h1>
-<section class="flex items-center pb-10 justify-evenly ">
-<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<section class="flex items-center pb-10 justify-evenly mob-col">
+<div class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 col-width-30">
     <a href="#">
         <img class="rounded-t-lg" src="./assets/images/goblin.jpg" alt="" />
     </a>
@@ -45,9 +45,9 @@
         </a>
     </div>
 </div>
-<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 col-width-30">
     <a href="#">
-        <img class="rounded-t-lg h-[382px]" src="./assets/images/fantasy.jpg" alt="" />
+        <img class="rounded-t-lg" src="./assets/images/fantasy.jpg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">
@@ -60,9 +60,9 @@
         </a>
     </div>
 </div>
-<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+<div class="max-w-lg bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 col-width-30">
     <a href="#">
-        <img class="rounded-t-lg h-[382px]" src="./assets/images/spaceship.jpg" alt="" />
+        <img class="rounded-t-lg" src="./assets/images/spaceship.jpg" alt="" />
     </a>
     <div class="p-5">
         <a href="#">

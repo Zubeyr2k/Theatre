@@ -2,3 +2,15 @@
 {
     background-color: #D9D3B8 !important;
 }
+.col-width-30{
+    width: 30%;
+}
+@media screen and (max-width: 776px) {
+    .mob-col{
+        flex-direction: column;
+    }
+    .col-width-30{
+        width: 96%;
+        margin-bottom: 13px;
+    }
+}
